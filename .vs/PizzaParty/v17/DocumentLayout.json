@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\models\\pizzapeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:models\\pizzapeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "Controllers\\PeopleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:49:22.87Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\People\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\People\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\People\\Index.cshtml",
+              "RelativeToolTip": "Views\\People\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T19:06:00.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaPeople.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\PizzaPeople.cs",
+              "RelativeDocumentMoniker": "Models\\PizzaPeople.cs",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\PizzaPeople.cs",
+              "RelativeToolTip": "Models\\PizzaPeople.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:13:10.009Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

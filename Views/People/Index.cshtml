@@ -1,0 +1,32 @@
+﻿@model IEnumerable<PizzaPeople>
+
+<h2>Peoples</h2>
+
+<div style="display: block">
+    <a href="/People/InsertPerson/">Create a New Product</a>
+</div>
+
+
+<table class="table">
+    <tr>
+        <th>CustomerID</th>
+        <th>Name</th>
+        <th>Address</th>
+        <th>Age</th>
+        <th>Gender</th>
+        <th>EventSize</th>
+    </tr>
+
+    @foreach (var product in Model)
+    {
+        <tr>
+            <td><a href=/Peoples/ViewPeoples/@product.CustomerID>@product.CustomerID</a></td>
+            <td>@product.Name</td>
+            <td>@product.Address</td>
+            <td>@product.Age</td>
+            <td>@product.Gender</td>
+            <td>@product.EventSize</td>
+        </tr>
+
+    }
+</table>
