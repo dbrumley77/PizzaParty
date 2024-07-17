@@ -1,6 +1,7 @@
 ﻿namespace PizzaParty.Models
 {
-    public class PizzaPeople
+    public class PizzaPerson
+
     {
         public int CustomerID { get; set; }
         public string Name  { get; set; }
