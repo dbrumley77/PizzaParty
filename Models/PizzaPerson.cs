@@ -1,4 +1,5 @@
-﻿namespace PizzaParty.Models
+﻿
+namespace PizzaParty.Models
 {
     public class PizzaPerson
 
@@ -9,9 +10,7 @@
         public int Age {  get; set; }
         public char Gender { get; set; }
         public int EventSize { get; set; }
-
-
-
+        public IEnumerable<PizzaPerson> Categories { get; internal set; }
     }
 
 

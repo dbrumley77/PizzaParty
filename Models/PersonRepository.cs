@@ -30,18 +30,18 @@ namespace PizzaParty.Models
             new { name = person.Name, eventsize = person.EventSize, id = person.CustomerID });
         }
 
-        //public IEnumerable<PizzaPerson> GetCategories()
-        //{
-        //    return _conn.Query<Category>("SELECT * FROM categories;");
-        //}
+        public IEnumerable<PizzaPerson> GetCategories()
+        {
+            return (IEnumerable<PizzaPerson>)_conn.Query<Category>("SELECT * FROM categories;");
+        }
 
-        //public PizzaPerson AssignCategory()
-        //{
-        //    var categoryList = GetCategories();
-        //    var product = new PizzaPerson();
-        //    product.Categories = categoryList;
-        //    return product;
-        //}
+        public PizzaPerson AssignCategory()
+        {
+            var categoryList = GetCategories();
+            var product = new PizzaPerson();
+            product.Categories = categoryList;
+            return product;
+        }
 
         public void InsertPerson(PizzaPerson personToInsert)
         {

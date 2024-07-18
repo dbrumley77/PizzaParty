@@ -1,3 +1,7 @@
+using MySql.Data.MySqlClient;
+using PizzaParty.Models;
+using System.Data;
+
 namespace PizzaParty
 {
     public class Program
@@ -8,6 +12,14 @@ namespace PizzaParty
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddScoped<IDbConnection>((s) =>
+            {
+                IDbConnection conn = new MySqlConnection(builder.Configuration.GetConnectionString("DefaultConnection"));
+                conn.Open();
+                return conn;
+            });
+
+            builder.Services.AddTransient<IPersonRepository, PersonRepository>();
 
             var app = builder.Build();
 
@@ -31,6 +43,8 @@ namespace PizzaParty
                 pattern: "{controller=Home}/{action=Index}/{id?}");
 
             app.Run();
+
+
         }
     }
 }
