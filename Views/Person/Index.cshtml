@@ -3,7 +3,7 @@
 <h2>Peoples</h2>
 
 <div style="display: block">
-    <a href="/People/InsertPerson/">Create a New Customer</a>
+    <a href="/Person/InsertPerson/">Create a New Customer</a>
 </div>
 
 
@@ -20,7 +20,7 @@
     @foreach (var product in Model)
     {
         <tr>
-            <td><a href=/Peoples/ViewPerson/@product.CustomerID>@product.CustomerID</a></td>
+            <td><a href=/Person/ViewPerson/@product.CustomerID>@product.CustomerID</a></td>
             <td>@product.Name</td>
             <td>@product.Address</td>
             <td>@product.Age</td>

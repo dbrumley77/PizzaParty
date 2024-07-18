@@ -22,20 +22,24 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dougl/OneDrive/Desktop/Repos/PizzaParty/Views/Home/InsertPerson.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbnNlcnRQZXJzb24uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/dougl/OneDrive/Desktop/Repos/PizzaParty/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dougl/OneDrive/Desktop/Repos/PizzaParty/Views/Home/UpdatePerson.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVcGRhdGVQZXJzb24uY3NodG1s
+[C:/Users/dougl/OneDrive/Desktop/Repos/PizzaParty/Views/Person/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dougl/OneDrive/Desktop/Repos/PizzaParty/Views/People/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVvcGxlXEluZGV4LmNzaHRtbA==
+[C:/Users/dougl/OneDrive/Desktop/Repos/PizzaParty/Views/Person/InsertPerson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEluc2VydFBlcnNvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dougl/OneDrive/Desktop/Repos/PizzaParty/Views/Person/UpdatePerson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXFVwZGF0ZVBlcnNvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dougl/OneDrive/Desktop/Repos/PizzaParty/Views/Person/ViewPerson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXFZpZXdQZXJzb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/dougl/OneDrive/Desktop/Repos/PizzaParty/Views/Shared/Error.cshtml]

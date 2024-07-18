@@ -16,23 +16,23 @@ namespace PizzaParty.Models
 
         public IEnumerable<PizzaPerson> GetAllPerson()
         {
-            return _conn.Query<PizzaPerson>("SELECT * FROM PERSON;");
+            return _conn.Query<PizzaPerson>("SELECT * FROM PIZZA_PEOPLE;");
         }
 
         public PizzaPerson GetPerson(int id)
         {
-            return _conn.QuerySingle<PizzaPerson>("SELECT * FROM PERSON WHERE CUSTOMERID = @id", new { id });
+            return _conn.QuerySingle<PizzaPerson>("SELECT * FROM PIZZA_PEOPLE WHERE CUSTOMERID = @id", new { id });
         }
 
         public void UpdatePerson(PizzaPerson person)
         {
-            _conn.Execute("UPDATE person SET Name = @name, Eventsize = @eventsize WHERE CustomerID = @id",
+            _conn.Execute("UPDATE PIZZA_PEOPLE SET Name = @name, Eventsize = @eventsize WHERE CustomerID = @id",
             new { name = person.Name, eventsize = person.EventSize, id = person.CustomerID });
         }
 
         public IEnumerable<PizzaPerson> GetCategories()
         {
-            return (IEnumerable<PizzaPerson>)_conn.Query<Category>("SELECT * FROM categories;");
+            return (IEnumerable<PizzaPerson>)_conn.Query<PizzaPerson>("SELECT * FROM categories;");
         }
 
         public PizzaPerson AssignCategory()
@@ -45,7 +45,7 @@ namespace PizzaParty.Models
 
         public void InsertPerson(PizzaPerson personToInsert)
         {
-            _conn.Execute("INSERT INTO products (CUSTOMERID, NAME, ADDRESS, EVENTSIZE) VALUES (@customerID, @name, @address, @eventsize;",
+            _conn.Execute("INSERT INTO PIZZA_PEOPLE (CUSTOMERID, NAME, ADDRESS, EVENTSIZE) VALUES (@customerID, @name, @address, @eventsize;",
                 new { customerID = personToInsert.CustomerID, name = personToInsert.Name, address = personToInsert.Address, eventsize = personToInsert.EventSize });
         }
 
