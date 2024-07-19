@@ -26,8 +26,8 @@ namespace PizzaParty.Models
 
         public void UpdatePerson(PizzaPerson person)
         {
-            _conn.Execute("UPDATE PIZZA_PEOPLE SET Name = @name, Eventsize = @eventsize WHERE CustomerID = @id",
-            new { name = person.Name, eventsize = person.EventSize, id = person.CustomerID });
+            _conn.Execute("UPDATE PIZZA_PEOPLE SET Name = @name, Eventsize = @eventsize, Age = @age, Address = @address, Gender = @gender WHERE CustomerID = @id",
+            new { name = person.Name, eventsize = person.EventSize, age = person.Age, address = person.Address, gender = person.Gender, id = person.CustomerID });
         }
 
         public IEnumerable<PizzaPerson> GetCategories()
@@ -45,13 +45,13 @@ namespace PizzaParty.Models
 
         public void InsertPerson(PizzaPerson personToInsert)
         {
-            _conn.Execute("INSERT INTO PIZZA_PEOPLE (CUSTOMERID, NAME, ADDRESS, EVENTSIZE) VALUES (@customerID, @name, @address, @eventsize;",
-                new { customerID = personToInsert.CustomerID, name = personToInsert.Name, address = personToInsert.Address, eventsize = personToInsert.EventSize });
+            _conn.Execute("INSERT INTO pizza_people (CUSTOMERID, NAME, ADDRESS, EVENTSIZE, AGE, GENDER) VALUES (@customerID, @name, @address, @eventsize, @age, @gender);",
+                new { customerID = personToInsert.CustomerID, name = personToInsert.Name, address = personToInsert.Address, eventsize = personToInsert.EventSize, age = personToInsert.Age, gender = personToInsert.Gender,  });
         }
 
         public void DeletePerson(PizzaPerson person)
         {
-            _conn.Execute("DELETE FROM PERSON WHERE CustomerID = @id;", new { id = person.CustomerID });
+            _conn.Execute("DELETE FROM PIZZA_PEOPLE WHERE CustomerID = @id;", new { id = person.CustomerID });
 
         }
 

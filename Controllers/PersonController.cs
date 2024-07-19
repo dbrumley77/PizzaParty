@@ -41,7 +41,7 @@ namespace PizzaParty.Controllers
             {
                 repo.UpdatePerson(person);
 
-                return RedirectToAction("ViewProduct", new { id = person.CustomerID });
+                return RedirectToAction("ViewPerson", new { id = person.CustomerID });
             }
 
             public IActionResult InsertPerson()
