@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Events>
+
+<h2>Events</h2>
+
+<br />
+<br />
+
+<div style="display: block">
+    <a href="/Event/InsertEvent/">Create a New Event!</a>
+</div>
+
+<br />
+<br />
+
+<table class="table">
+    <tr>
+        <th>EventID</th>
+        <th>CustomerID</th>
+        <th>EventTheme</th>
+        <th>EventSize</th> 
+    </tr>
+
+    @foreach (var product in Model)
+    {
+        <tr>
+            <td><a href=/Event/ViewEvent/@product.EventID>@product.EventID</a></td>
+            <td>@product.CustomerID</td>
+            <td>@product.EventTheme</td>
+            <td>@product.EventSize</td>
+       </tr>
+
+    }
+</table>

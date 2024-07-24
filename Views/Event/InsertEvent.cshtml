@@ -1,0 +1,26 @@
+﻿@model Events
+
+<h2>Create a New Event</h2>
+
+@using (Html.BeginForm("InsertEventToDatabase", "Event", "Post"))
+{
+    <input asp-for="EventID" type="hidden" value="" />
+
+    <label asp-for="CustomerID" class="control-label">CustomerID</label>
+    <input type="text" name="CustomerID" class="form-control" value="@Model.CustomerID" />
+
+    <label asp-for="EventTheme" class="control-label">EventTheme</label>
+    <input type="text" name="EventTheme" class="form-control" value="@Model.EventTheme" />
+
+    <label asp-for="EventSize" class="control-label">EventSize</label>
+    <input type="text" name="EventSize" class="form-control" value="@Model.EventTheme" />
+
+    <br />
+    <br />
+
+    <input type="submit" value="Update Event" class="btn btn-primary" />
+    
+
+}
+
+

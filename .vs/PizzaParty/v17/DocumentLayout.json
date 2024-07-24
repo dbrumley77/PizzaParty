@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\views\\event\\insertevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:views\\event\\insertevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\models\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:models\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\views\\event\\updateevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:views\\event\\updateevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\views\\event\\viewevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:views\\event\\viewevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,32 +39,12 @@
       "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\views\\person\\insertperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:views\\person\\insertperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\views\\person\\viewperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:views\\person\\viewperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\views\\person\\updateperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:views\\person\\updateperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\views\\person\\insertperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:views\\person\\insertperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\models\\pizzaperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,24 +55,40 @@
       "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:models\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\models\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:models\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\models\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:models\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\views\\person\\updateperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:views\\person\\updateperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\views\\person\\viewperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:views\\person\\viewperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\models\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:models\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\pizzaparty\\models\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6967DFB-7414-4249-AECD-61DE386381A0}|PizzaParty.csproj|solutionrelative:models\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,64 +98,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PersonController.cs",
-              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Controllers\\PersonController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
-              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Controllers\\PersonController.cs",
-              "RelativeToolTip": "Controllers\\PersonController.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAkwCUAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T18:49:22.87Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ViewPerson.cshtml",
-              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Person\\ViewPerson.cshtml",
-              "RelativeDocumentMoniker": "Views\\Person\\ViewPerson.cshtml",
-              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Person\\ViewPerson.cshtml",
-              "RelativeToolTip": "Views\\Person\\ViewPerson.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAIAAAA",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-18T16:48:13.305Z",
+              "WhenOpened": "2024-07-24T14:39:26.56Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-18T16:09:11.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-19T16:01:00.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -144,124 +128,202 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "Views\\Event\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T14:39:20.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T16:09:11.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Person\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Person\\Index.cshtml",
               "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Person\\Index.cshtml",
               "RelativeToolTip": "Views\\Person\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-15T19:06:00.369Z",
+              "WhenOpened": "2024-07-24T14:51:09.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "InsertEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Event\\InsertEvent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\InsertEvent.cshtml",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Event\\InsertEvent.cshtml",
+              "RelativeToolTip": "Views\\Event\\InsertEvent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-18T15:24:14.918Z",
+              "WhenOpened": "2024-07-23T15:18:02.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InsertPerson.cshtml",
-              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Person\\InsertPerson.cshtml",
-              "RelativeDocumentMoniker": "Views\\Person\\InsertPerson.cshtml",
-              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Person\\InsertPerson.cshtml",
-              "RelativeToolTip": "Views\\Person\\InsertPerson.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T16:50:18.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UpdatePerson.cshtml",
-              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Person\\UpdatePerson.cshtml",
-              "RelativeDocumentMoniker": "Views\\Person\\UpdatePerson.cshtml",
-              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Person\\UpdatePerson.cshtml",
-              "RelativeToolTip": "Views\\Person\\UpdatePerson.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T16:52:03.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PizzaPerson.cs",
-              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\PizzaPerson.cs",
-              "RelativeDocumentMoniker": "Models\\PizzaPerson.cs",
-              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\PizzaPerson.cs",
-              "RelativeToolTip": "Models\\PizzaPerson.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T14:23:06.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PersonRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\PersonRepository.cs",
-              "RelativeDocumentMoniker": "Models\\PersonRepository.cs",
-              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\PersonRepository.cs",
-              "RelativeToolTip": "Models\\PersonRepository.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAvwD8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T17:57:04.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IPersonRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\IPersonRepository.cs",
-              "RelativeDocumentMoniker": "Models\\IPersonRepository.cs",
-              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\IPersonRepository.cs",
-              "RelativeToolTip": "Models\\IPersonRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T16:38:29.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T17:23:48.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-18T15:35:48.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\Events.cs",
+              "RelativeDocumentMoniker": "Models\\Events.cs",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\Events.cs",
+              "RelativeToolTip": "Models\\Events.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:20:20.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Event\\ViewEvent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\ViewEvent.cshtml",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Event\\ViewEvent.cshtml",
+              "RelativeToolTip": "Views\\Event\\ViewEvent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T15:17:33.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Event\\UpdateEvent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\UpdateEvent.cshtml",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Event\\UpdateEvent.cshtml",
+              "RelativeToolTip": "Views\\Event\\UpdateEvent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T14:48:54.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InsertPerson.cshtml",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Person\\InsertPerson.cshtml",
+              "RelativeDocumentMoniker": "Views\\Person\\InsertPerson.cshtml",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Person\\InsertPerson.cshtml",
+              "RelativeToolTip": "Views\\Person\\InsertPerson.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T15:17:50.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PizzaPerson.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\PizzaPerson.cs",
+              "RelativeDocumentMoniker": "Models\\PizzaPerson.cs",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\PizzaPerson.cs",
+              "RelativeToolTip": "Models\\PizzaPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:23:06.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "Models\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\PersonRepository.cs",
+              "RelativeToolTip": "Models\\PersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:57:04.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\EventRepository.cs",
+              "RelativeDocumentMoniker": "Models\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\EventRepository.cs",
+              "RelativeToolTip": "Models\\EventRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAApwDYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:36:46.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:09:06.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdatePerson.cshtml",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Person\\UpdatePerson.cshtml",
+              "RelativeDocumentMoniker": "Views\\Person\\UpdatePerson.cshtml",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Person\\UpdatePerson.cshtml",
+              "RelativeToolTip": "Views\\Person\\UpdatePerson.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T15:18:33.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewPerson.cshtml",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Person\\ViewPerson.cshtml",
+              "RelativeDocumentMoniker": "Views\\Person\\ViewPerson.cshtml",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Views\\Person\\ViewPerson.cshtml",
+              "RelativeToolTip": "Views\\Person\\ViewPerson.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T15:18:59.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -274,16 +336,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-18T15:38:15.725Z",
+              "DocumentIndex": 18,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:09:18.781Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "Models\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\IEventRepository.cs",
+              "RelativeToolTip": "Models\\IEventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T22:48:06.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-19T16:01:00.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "Models\\IPersonRepository.cs",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\PizzaParty\\Models\\IPersonRepository.cs",
+              "RelativeToolTip": "Models\\IPersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:38:29.858Z"
             }
           ]
         }

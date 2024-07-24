@@ -20,7 +20,7 @@ namespace PizzaParty
             });
 
             builder.Services.AddTransient<IPersonRepository, PersonRepository>();
-
+            builder.Services.AddTransient<IEventRepository, EventRepository>(); 
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

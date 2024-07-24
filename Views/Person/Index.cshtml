@@ -1,10 +1,16 @@
 ﻿@model IEnumerable<PizzaPerson>
 
-<h2>Peoples</h2>
+<h2>Customers</h2>
+
+<br />
+<br />
 
 <div style="display: block">
-    <a href="/Person/InsertPerson/">Create a New Customer</a>
+    <a href="/Person/InsertPerson/">Create a New Customer!</a>
 </div>
+
+<br />
+<br />
 
 
 <table class="table">
@@ -14,7 +20,7 @@
         <th>Address</th>
         <th>Age</th>
         <th>Gender</th>
-        <th>EventSize</th>
+        
     </tr>
 
     @foreach (var product in Model)
@@ -25,7 +31,7 @@
             <td>@product.Address</td>
             <td>@product.Age</td>
             <td>@product.Gender</td>
-            <td>@product.EventSize</td>
+            
         </tr>
 
     }

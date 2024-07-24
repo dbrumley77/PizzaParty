@@ -32,7 +32,7 @@ namespace PizzaParty.Models
 
         public IEnumerable<PizzaPerson> GetCategories()
         {
-            return (IEnumerable<PizzaPerson>)_conn.Query<PizzaPerson>("SELECT * FROM categories;");
+            return (IEnumerable<PizzaPerson>)_conn.Query<PizzaPerson>("SELECT * FROM events;");
         }
 
         public PizzaPerson AssignCategory()

@@ -1,0 +1,39 @@
+﻿@model Events
+
+<h3>@Model.EventID Information</h3>
+
+<table class="table">
+    <tr>
+        <th>EventID</th>
+        <th>CustomerID</th>
+        <th>EventTheme</th>
+        <th>EventSize</th>
+    </tr>
+    <tr>
+        <td>@Model.EventID</td>
+        <td>@Model.CustomerID</td>
+        <td>@Model.EventTheme</td>
+        <td>@Model.EventSize</td>
+    </tr>
+</table>
+<br />
+<br />
+<br />
+
+
+<div style="display: block">
+    <a href="/Event/UpdateEvent/@Model.EventID">Update this Event</a>
+</div>
+
+<br />
+<br />
+<br />
+
+<div style="display: block">
+
+    @using (Html.BeginForm("DeleteEvent", "Event", "Post"))
+    {
+        <input type="hidden" asp-for="EventID" value="@Model.EventID" />
+        <input type="submit" onclick="return confirm('Are you sure?')" value="Delete this event" />
+    }
+</div>
