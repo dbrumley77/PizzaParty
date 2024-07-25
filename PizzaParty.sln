@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaParty", "PizzaParty.csproj", "{B6967DFB-7414-4249-AECD-61DE386381A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaParty", "PizzaParty.csproj", "{B6967DFB-7414-4249-AECD-61DE386381A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPizzaParty", "..\TestPizzaParty\TestPizzaParty.csproj", "{0072786C-B0C9-41B5-970C-078DF814B54E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B6967DFB-7414-4249-AECD-61DE386381A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6967DFB-7414-4249-AECD-61DE386381A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6967DFB-7414-4249-AECD-61DE386381A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0072786C-B0C9-41B5-970C-078DF814B54E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0072786C-B0C9-41B5-970C-078DF814B54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0072786C-B0C9-41B5-970C-078DF814B54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0072786C-B0C9-41B5-970C-078DF814B54E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
