@@ -29,7 +29,7 @@ namespace PizzaParty.Models
                 throw new Exception("No event found with the given ID.");
             }
             return result;
-            //return _conn.QuerySingle<Events>("SELECT * FROM EVENTS WHERE eventID = @id", new { id = id });
+            
         }
 
         public void UpdateEvent(Events eventToUpdate)

@@ -14,7 +14,7 @@ namespace PizzaParty.Models
             _conn = conn;
         }
 
-        public IEnumerable<PizzaPerson> GetAllPerson()
+        public IEnumerable<PizzaPerson> GetAllPeople()
         {
             return _conn.Query<PizzaPerson>("SELECT * FROM PIZZA_PEOPLE;");
         }

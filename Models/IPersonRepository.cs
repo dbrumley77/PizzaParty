@@ -3,7 +3,7 @@
     public interface IPersonRepository
     {
         
-        public IEnumerable<PizzaPerson> GetAllPerson();
+        public IEnumerable<PizzaPerson> GetAllPeople();
         public IEnumerable<PizzaPerson> GetCategories();
         public PizzaPerson GetPerson(int id);
         public PizzaPerson AssignCategory();

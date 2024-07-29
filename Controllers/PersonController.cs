@@ -17,7 +17,7 @@ namespace PizzaParty.Controllers
 
             public IActionResult Index()
             {
-                var people = repo.GetAllPerson();
+                var people = repo.GetAllPeople();
                 return View(people);
             }
 
